@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NinePatch</string>
+    <string name="welcome_text">BIENVENIDO</string>
+    <string name="welcome_enter">ENTRAR</string>
+</resources>

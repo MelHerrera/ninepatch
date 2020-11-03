@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NinePatch</string>
+    <string name="welcome_text">BIENVENUE</string>
+    <string name="welcome_enter">ENTRER</string>
+</resources>
